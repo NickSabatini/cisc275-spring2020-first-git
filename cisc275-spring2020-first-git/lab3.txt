@@ -1,0 +1,17 @@
+touch file1.txt
+touch file2.txt
+touch file3.txt
+touch file4.txt
+
+git add file2
+git add file3
+git add file4
+
+vim file3
+vim file4
+
+git commit file4
+
+
+https://github.com/NickSabatini/cisc275-spring2020-first-git
+
